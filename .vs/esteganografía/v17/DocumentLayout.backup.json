@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migue\\source\\repos\\esteganograf\u00EDa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98D92C8-D325-45A8-A8C8-853948C42173}|esteganograf\u00EDa\\esteganograf\u00EDa.csproj|c:\\users\\migue\\source\\repos\\esteganograf\u00EDa\\esteganograf\u00EDa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98D92C8-D325-45A8-A8C8-853948C42173}|esteganograf\u00EDa\\esteganograf\u00EDa.csproj|solutionrelative:esteganograf\u00EDa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\esteganograf\u00EDa\\esteganograf\u00EDa\\Program.cs",
+              "RelativeDocumentMoniker": "esteganograf\u00EDa\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\esteganograf\u00EDa\\esteganograf\u00EDa\\Program.cs*",
+              "RelativeToolTip": "esteganograf\u00EDa\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:49:54.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
