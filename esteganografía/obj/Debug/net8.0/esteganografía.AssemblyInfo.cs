@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esteganografía")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8931f09e257e0209e38fbb55cfb0c11f13a16e4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("esteganografía")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esteganografía")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
